@@ -1,0 +1,10 @@
+{
+    "name": "ilecoiii/gleamework",
+    "description": "framework",
+    "autoload": {
+        "psr-4": {
+            "Ilecoiii\\Gleamework\\": "src/"
+        }
+    },
+    "require": {}
+}
