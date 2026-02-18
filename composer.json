@@ -3,7 +3,7 @@
     "description": "framework",
     "autoload": {
         "psr-4": {
-            "Ilecoiii\\Gleamework\\": "src/"
+            "gleamework\\": "src/"
         }
     },
     "require": {}
